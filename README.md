@@ -1,2 +1,2 @@
 # impiccatoTPSIT
-Progetto impiccato TPSIT Togni-Ferraro
+Progetto impiccato TPSIT Togni/Ferraro
