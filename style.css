@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 40px;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+input[type="text"] {
+    width: 30px;
+    font-size: 20px;
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid #333;
+    margin-right: 10px;
+    text-align: center;
+}
+
+button[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    font-size: 20px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#parola-indovinata {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+    color: #333;
+}
+
+#messaggio {
+    text-align: center;
+    margin-top: 10px;
+    color: #333;
+}
